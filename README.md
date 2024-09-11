@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @222231492
+- 👋 Hi, I’m BrianM
 - 👀 I’m interested in ...  Developing 
 - 🌱 I’m currently learning ...  c#vprogramming languege and i know python
 - 💞️ I’m looking to collaborate on ...creating projects using Django and Flask Frame works and open for any project that is using python and C# 
